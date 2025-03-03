@@ -50,3 +50,6 @@ For detailed information on the project's design, implementation, and results, r
 
 Contributions are welcome. Please fork this repository and submit a pull request with your proposed changes.
 
+### License 
+
+This project is licensed under the MIT License. See the LICENSE file for details.
